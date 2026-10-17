@@ -1,0 +1,23 @@
+body{
+    background: yellowgreen;
+    color:aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+img{
+    border-width:300px ;
+    display: block;
+}
+
+input{
+    width: 200px;
+    display: block;
+
+}
+button{
+    border-width: 10px;
+}
+

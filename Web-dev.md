@@ -31,6 +31,27 @@ HTML {
     ANCHOR TAGS=> <a href=link>xyz<a> basically this is a clickble link made to go between diff pages 
 
     HTML LISTS:
+
+
+    HTML COMPLETED:{
+        CORE HTML TAGS
+        NESTING
+        BUTTONS
+        INPUT FIELD 
+        ANCHOR TAGS
+        DOCUMENT STRUCTURE 
+        LISTS
+        DEPLOYMENT
+    }
+
+
+    CSS:CASCADING STYLE SHEET
+
+    COME ON LETS GO WITH CSS
+
+    inline and block elements:
+    
+
     
 
 
