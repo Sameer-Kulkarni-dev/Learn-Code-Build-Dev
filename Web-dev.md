@@ -49,9 +49,73 @@ HTML {
 
     COME ON LETS GO WITH CSS
 
-    inline and block elements:
-    
+    inline and block elements: 
 
+    inline what it does is it it stack the images side-by-side 
+
+    block what it does is it stack the element one upon other .. like stack
+
+    margins: 
+
+        how to get any image into the center 
+        [
+            display:block
+            must have a width
+            margin-left=auto
+            margin-right=auto
+
+            auto means it utilizes its all the avilable spaces 
+        ]
+
+    
+    PADDING :[
+        Padding - Individual Sides
+CSS has properties for specifying the padding for each side of an element:
+
+        padding-top - sets the top padding of an element
+        padding-right - sets the right padding of an element
+        padding-bottom - sets the bottom padding of an element
+        padding-left - sets the left padding of an element
+        All the padding properties can have the following values:
+
+        length - specifies a padding in px, pt, cm, etc.
+        % - specifies a padding in % of the width of the containing element
+        inherit - specifies that the padding should be inherited from the parent element
+        Note: Negative values are not allowed.
+
+        Use the padding shorthand property with four values:
+
+        div {
+        padding: 25px 50px 75px 100px;
+}
+
+
+                If the padding property has one value:
+
+                padding: 25px;
+
+
+                all four paddings are 25px
+
+    ]
+
+    ok there is something between the margin and the padding 
+    that is border properties 
+
+
+    [
+        Definition and Usage
+The border property is a shorthand property for:
+
+border-width
+border-style (required)
+border-color
+
+If border-color is omitted, the color applied will be the color of the text.
+
+learn to be used with BOX MODEL
+
+    ]
     
 
 
