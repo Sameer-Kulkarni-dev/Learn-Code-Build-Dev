@@ -117,6 +117,23 @@ learn to be used with BOX MODEL
 
     ]
     
+    what i learnt so far:
+        css syntax
+        inline and block element
+        margins TRBL
+        BORDER  
+        Radius
+        css class
+        centering
+        flexbox
+        divs
+
+
+        Projects to do in css:
+        [BUSINESS CARD]
+
+        relative path syntx
+
 
 
 }

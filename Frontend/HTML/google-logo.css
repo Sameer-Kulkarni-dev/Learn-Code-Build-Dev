@@ -21,3 +21,29 @@ div{
 
 }
 
+.btn{
+    width: 50px;
+    
+    margin-left:4px ;
+    margin-right:4px;
+    margin-top:30px;
+    background: #dfe1e5;
+    border:none;
+    padding:8px 16px 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    white-space: nowrap;
+    cursor: pointer;
+
+}
+
+.btn-wrapper{
+    display :flex;
+    justify-content: center;
+    white-space: nowrap;
+    cursor: pointer;
+    padding-top: 100px; /* Pushes everything down from the top */
+
+
+}
+
