@@ -134,6 +134,7 @@ learn to be used with BOX MODEL
 
         relative path syntx
 
-
+adding alt attribute  syntx 
+ 
 
 }
