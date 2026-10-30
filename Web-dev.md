@@ -135,6 +135,40 @@ learn to be used with BOX MODEL
         relative path syntx
 
 adding alt attribute  syntx 
+
+Flex box child containers[
+
+]
+utility class = a class for a single css property.
+
+justify-content is the powerfull property in css.
+
+css inheritance{
+    text-align:center
+}
+
+web safe fonts:[
+    Best Web Safe Fonts for HTML and CSS
+The following fonts are the best web safe fonts for HTML and CSS:
+
+Arial (sans-serif)
+Verdana (sans-serif)
+Tahoma (sans-serif)
+Trebuchet MS (sans-serif)
+Times New Roman (serif)
+Georgia (serif)
+Garamond (serif)
+Courier New (monospace)
+Brush Script MT (cursive)
+
+Note: Before you publish your website, always check how your fonts appear on different browsers and devices, and always use fallback fonts!
+]
+
+coolors.co for the diff color shades in css it will give u the hex numbers of colors
  
+
+                HTML & CSS COMPLETED 
+
+                NEXT GIT/GITHUB 
 
 }
