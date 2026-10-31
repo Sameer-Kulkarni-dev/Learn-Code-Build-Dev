@@ -1,0 +1,34 @@
+#main-logo{
+    width:80px;
+}
+
+
+
+body{
+    color:#83a5ca;
+    background-image: url("images/giphy.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: 'orbitron' , sans-serif;
+
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; /* This centers the button horizontally */
+ 
+}
+.btn{
+    padding:6px 12px;
+    cursor: pointer;
+    background: white;
+    border:none;
+    /* font-family: "gf_Orbitron variant0", Tofu, Orbitron; */
+    font-family: inherit;
+    color:#83a5ca;
+    font-weight: 800;
+}
+
+.underline{
+    border-bottom: 6px solid white;
+}

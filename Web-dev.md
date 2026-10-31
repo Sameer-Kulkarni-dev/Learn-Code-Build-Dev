@@ -165,10 +165,39 @@ Note: Before you publish your website, always check how your fonts appear on dif
 ]
 
 coolors.co for the diff color shades in css it will give u the hex numbers of colors
- 
+
+[
+    img alt text
+
+    flex child containers
+
+    inheritance
+    shorthands {margin, padding}
+
+    websafe fonts
+    color paletts
+
+
+]
+
+PROJECTS DONE[
+    BUSINESS CARD
+    SPACE EXPLORATION SITE
+    
+]
+
+        BACKGROUND IMAGES ARE NOT ADDED IN HTML THEY ARE ADD IN CSS
+
+        USE UNSPLASH FOR BACKGROUND IMAGES
+
+        use google fonts for fonts 
+        1001 fonts.com [ttf file download]
+        GIPGY FOR WEBP format image similar to GIF
 
                 HTML & CSS COMPLETED 
 
                 NEXT GIT/GITHUB 
+
+
 
 }
