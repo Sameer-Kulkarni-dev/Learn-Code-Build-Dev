@@ -4,12 +4,20 @@
 
 
 
+
 body{
     color:#83a5ca;
-    background-image: url("images/giphy.gif");
-    background-size: cover;
+    margin:0px;
     text-align: center;
     font-family: 'orbitron' , sans-serif;
+
+}
+
+#hero{
+    background-image: url("images/giphy.gif");
+    background-size: cover;
+    padding:10px 0px 40px 0px;
+
 
 }
 
@@ -31,4 +39,8 @@ body{
 
 .underline{
     border-bottom: 6px solid white;
+}
+
+#title{
+    text-shadow: 0px 0px 4px black;
 }
