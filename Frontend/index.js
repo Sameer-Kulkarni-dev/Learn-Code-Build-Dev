@@ -59,22 +59,56 @@
 
 // greetvishnu()
 //----------------------------------------------------------------------------------------------------
-let mypoints=3
+// let mypoints=3
 
-function add3points(){
-    mypoints+=3
+// function add3points(){
+//     mypoints+=3
+// }
+
+// function remove1point(){
+//     mypoints-=1
+
+// }
+
+// add3points()
+// add3points()
+// add3points()
+// remove1point()
+// remove1point()
+
+
+// console.log(mypoints)
+//--------------------------------------------------------------------------------
+
+// let age=22
+// if(age>=22){
+//     console.log("welcome!!!")
+// }else {
+//     console.log("you are not allowed to enter the club")
+// }
+//------------------------------------------------------------------------------------
+
+// let age=1001
+// if(age<100){
+//     console.log("not eligible")
+// }else if(age===100) {
+//     console.log("here is your birthday card from the king")
+// }else if(age>100){
+//     console.log("not eligible you have already gotten one")
+// }
+//-------------------------------------------------------------------------------------------------
+
+// boolean 
+
+let isDiscountapplied=true
+
+function processorder(){
+    if(isDiscountapplied){
+        console.log("discount applied to food order")
+        isDiscountapplied=false
+    }else{
+        console.log("no discount applied")
+    }
 }
-
-function remove1point(){
-    mypoints-=1
-
-}
-
-add3points()
-add3points()
-add3points()
-remove1point()
-remove1point()
-
-
-console.log(mypoints)
+processorder()
+processorder()
