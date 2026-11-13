@@ -28,3 +28,6 @@ the DOM
 getelementbyid()
 innertext
 textcontent
+
+
+queryselector:
